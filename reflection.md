@@ -1,7 +1,7 @@
 # Reflection
 
-Student Name:  name
-Sudent Email:  email
+Student Name:  Connor Cluett
+Sudent Email:  cpcluett@syr.edu
 
 ## Instructions
 
@@ -23,3 +23,4 @@ Examples:
 
 `--- Reflection Below This Line ---`
 
+I thought this assignment was very easy when examining the html docs, and building the functions. However, most of my time was spent working on a weird bug with the .code, causing the tullyscraper code to crash and it was because of the if main statement. Additionally, there were 4 less rows when I scraped, so I changed the test assert to match the number of rows in my df. This assignment showed me how to webscrape, and the proper context of scraping in a loop and then adding to a dataframe. Also this helped me learn dataclasses and the importance when adding to a df. 
